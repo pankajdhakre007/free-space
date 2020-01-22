@@ -1,4 +1,6 @@
-```Player ONE is WHITE and Player TWO is BLACK
+##### Below is the sample view of chess interface
+```
+Player ONE is WHITE and Player TWO is BLACK
 Move should be give as D4 E5, where D4 is source location E5 is destination
  ---------------------------------------------------------------------------------------------------------------
 |                                                                                                               |
