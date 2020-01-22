@@ -59,4 +59,4 @@ Move should be give as D4 E5, where D4 is source location E5 is destination
 |             A           B           C           D           E           F           G           H             |
 |                                                                                                               |
  ---------------------------------------------------------------------------------------------------------------
- Player ONE! play your move: D2 D4```
+ Player ONE! play your move: D2 D4
